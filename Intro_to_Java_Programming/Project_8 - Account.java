@@ -10,7 +10,7 @@ public class TestAccount {
         myAccount.withdrawal(2500);
         myAccount.deposit(3000);
 
-        //Get balance, monthky interest, and date created,
+        //Get balance, monthly interest, and date created,
         System.out.println("The balance is $" + myAccount.getBalance());
         System.out.println("The monthly interest is " + myAccount.getMonthlyInterest());
         System.out.println("The date when the account was created is " + myAccount.getDateCreated());
