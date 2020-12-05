@@ -1,8 +1,4 @@
 /**
- * Class: CSC.151.00003 - Java Programming
- * Student: Alan Ivan Jimenez Gallardo
- * Instructor: Ying Andrews
- * Due: 12/07/2020
  *Write a program called FlashCard.java to teach addition of numbers with one digit past
  *the decimal. You are required to use the WidgetViewer.java file provided by the instructor
  *in the BlackBoard.
